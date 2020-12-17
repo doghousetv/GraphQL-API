@@ -14,7 +14,7 @@ const articleSchema = new Schema(
             required: true,
         },
     },
-    { timeestamps: true}
+    { timeestamps: true }
 )
 
 module.exports = mongoose.model("Article", articleSchema)
