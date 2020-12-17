@@ -1,0 +1,17 @@
+{
+  "name": "GraphQL-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "DOGHOUSETV <gea53899@marymount.edu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql": "^15.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
