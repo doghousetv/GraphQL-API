@@ -19,7 +19,7 @@ module.exports = buildSchema(`
     }
 
     type Mutation {
-        creatArticle(article:ArticleInput): Article
+        createArticle(article:ArticleInput): Article
     }
 
     schema {
