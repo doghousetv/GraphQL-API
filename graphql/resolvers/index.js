@@ -12,7 +12,6 @@ module.exports = {
                 }
             })
         } catch (error) {
-          console.err(error)
           throw error
         }
     },
@@ -30,7 +29,6 @@ module.exports = {
                 _id: newArticle.id
             } 
         } catch (error) {
-            console.err(error)
             throw error
         }
     },
