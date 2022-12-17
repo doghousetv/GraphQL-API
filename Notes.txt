@@ -1,11 +1,11 @@
 Create a GraphQL API to access your mongoDB Database via Apollo Server,
 then implement a subgraph with Apollo Server.
 
+# https://www.apollographql.com/docs/federation
+# https://www.apollographql.com/docs/apollo-server/using-federation/apollo-subgraph-setup
+
 What is useful information do I need to access/distribute on an API level?
 - Music
 - Playlists
 - Mixes
 - Links??
-
-Can this project be leveled up so that I have a chatGPT-like assistant
-that can intelligently retrieve the information I ask it for?
