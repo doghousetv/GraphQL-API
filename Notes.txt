@@ -1,5 +1,5 @@
 Create a GraphQL API to access your mongoDB Database via Apollo Server,
-then implement a subgraph with Apollo Server.
+then implement a subgraph with Apollo Server (using TypeScript).
 
 # https://www.apollographql.com/docs/federation
 # https://www.apollographql.com/docs/apollo-server/using-federation/apollo-subgraph-setup
